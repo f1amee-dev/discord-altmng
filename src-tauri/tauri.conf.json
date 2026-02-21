@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "alt-mngr",
+  "productName": "Discord Alt Manager",
   "version": "0.1.0",
   "identifier": "com.filip.alt-mngr",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "alt-mngr",
+        "title": "Discord Alt Manager",
         "width": 800,
         "height": 600
       }

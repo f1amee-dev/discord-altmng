@@ -1,4 +1,4 @@
-# alt-mngr
+# Discord Alt Manager
 
 A lightweight desktop app for switching between Discord accounts without logging in and out every time.
 
