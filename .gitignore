@@ -1,0 +1,30 @@
+# dependencies
+node_modules
+
+# build output
+dist
+dist-ssr
+
+# Rust/Cargo build artifacts
+src-tauri/target/
+src-tauri/gen/schemas
+
+# lock files (keep package-lock.json or bun.lock, not both)
+package-lock.json
+
+# logs
+*.log
+
+# editor stuff
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.sw?
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# env files (just in case)
+.env
+.env.*
