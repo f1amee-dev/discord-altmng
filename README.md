@@ -4,6 +4,13 @@ A lightweight desktop app for switching between Discord accounts without logging
 
 Built with [Tauri](https://tauri.app/) (Rust backend) and React (TypeScript frontend).
 
+## Download
+
+If you just want to use the app, download the latest build from:
+
+- [Latest release](https://github.com/f1amee-dev/discord-altmng/releases/latest)
+- [All releases](https://github.com/f1amee-dev/discord-altmng/releases)
+
 ## What it does
 
 - Save multiple Discord accounts with nicknames and color-coded avatars
