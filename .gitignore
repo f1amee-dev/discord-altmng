@@ -4,6 +4,7 @@ node_modules
 # build output
 dist
 dist-ssr
+release-artifacts/
 
 # Rust/Cargo build artifacts
 src-tauri/target/

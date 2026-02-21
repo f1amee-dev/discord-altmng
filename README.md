@@ -24,11 +24,15 @@ npm install
 npm run tauri dev
 ```
 
-To build a release:
+## Build releases
+
+Build a release with:
 
 ```bash
 npm run tauri build
 ```
+
+For Windows releases, run the same command on a Windows machine.
 
 ## Project structure
 
